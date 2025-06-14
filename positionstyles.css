@@ -209,7 +209,7 @@
      }
 
     .green6 {
-    width: 530px; 
+    width: 430px; 
     height: 500px;
     margin-top: 630px; 
     grid-column: 1/1;
@@ -218,7 +218,7 @@
      }
     
       .red6 {
-    width: 1000px; 
+    width: 8000px; 
     height: 350px; 
     grid-column: 1/1;
     margin-top: 0px;
@@ -228,7 +228,7 @@
     } 
     
     .blue6 {
-    width: 1000px; 
+    width: 8000px; 
     height: 1000px;  
     grid-column: 3/3;
     margin-left: 200px;
@@ -239,7 +239,7 @@
     } 
 
      .yellow6 {
-    width: 600px; 
+    width: 500px; 
     height: 900px;
     grid-column: 2/2;  
     margin-left: 950px;
