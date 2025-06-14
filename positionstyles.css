@@ -243,8 +243,7 @@
     height: 900px;
     grid-column: 2/2;  
     margin-left: 950px;
-    margin-top: 230px; 
-    
+    margin-top: 230px;     
     z-index: 3; 
     background-color: gold; 
      }
