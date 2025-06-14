@@ -209,8 +209,8 @@
      }
 
     .green6 {
-    width: 430px; 
-    height: 500px;
+    width: 630px; 
+    height: 600px;
     margin-top: 630px; 
     grid-column: 1/1;
     z-index: 3;
@@ -218,7 +218,7 @@
      }
     
       .red6 {
-    width: 8000px; 
+    width: 1000px; 
     height: 350px; 
     grid-column: 1/1;
     margin-top: 0px;
@@ -228,10 +228,10 @@
     } 
     
     .blue6 {
-    width: 8000px; 
-    height: 1000px;  
+    width: 900px; 
+    height: 1100px;  
     grid-column: 3/3;
-    margin-left: 200px;
+    margin-left: 300px;
     margin-top: -170px;
     margin-bottom: 100px;
     z-index: 2;
@@ -239,8 +239,8 @@
     } 
 
      .yellow6 {
-    width: 500px; 
-    height: 900px;
+    width: 600px; 
+    height: 1000px;
     grid-column: 2/2;  
     margin-left: 950px;
     margin-top: 230px;     
